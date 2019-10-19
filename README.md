@@ -1,4 +1,4 @@
-# Hacktoberfest ([Live Website](https://hacktoberfest.lingonsaft.com/)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Hacktoberfest ([Live Website] (https://hacktoberfest.lingonsaft.com/)) [![License: MIT] (https://img.shields.io/badge/License-MIT-yellow.svg)] (https://opensource.org/licenses/MIT)
 
 
 ```[English]```
@@ -6,7 +6,7 @@ This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). This repository is dedicated to help beginners step up and join hands with the open source community. Feel free to start contributing. There are no wrong contributions. If you don't
 know where to start, feel free to watch the videos linked below, and
 read the contribution rules. Happy hacking <3 !!
-By watching the video you will understand better about the working of hacktoberfest and how one will be able to create pull requests.
+By watching the video, you will understand better about the working of hacktoberfest and how one will be able to create pull requests.
 (P.S: Star and share this repository, if you had fun!)
 
 
@@ -28,21 +28,21 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 
 ## Videos/Vidéos/Vídeos
 
-- [Hacktoberfest Intro](https://youtu.be/OsAFX_ZbgaE)
-- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
-- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+- [Hacktoberfest Intro] (https://youtu.be/OsAFX_ZbgaE)
+- [How to pull request [Overview]] (https://youtu.be/DIj2q02gvKs)
+- [Merge Conflict / comment] (https://youtu.be/zOx5PJTY8CI)
 
 
 ## 
 bution rules/Règles de contribution/Regras de contribuição
 
 ```[English]```
-- The project must work when opening [index.html](https://github.com/lingonsaft/hacktoberfest/blob/master/index.html).
+- The project must work when opening [index.html] (https://github.com/lingonsaft/hacktoberfest/blob/master/index.html).
 - You are allowed to make pull requests that break the rules. We just won't merge it ;).
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site).
 - Do NOT remove Videos, Rules, FAQ, or any other helpful content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works.
-- Add your name to the [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html) file.
+- Add your name to the [contributors.html] (https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html) file.
 - Try to keep pull requests small to minimize merge conflicts.
 
 ```[Français]```
@@ -133,7 +133,7 @@ git merge upstream/master
 ```[English]```
 This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
 
-For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
+For more information on syncing forks [read this article from Github] (https://help.github.com/articles/syncing-a-fork/).
 
 ```[French]```
 Ceci vous donnera un aperçu des conflits éventuels et vous permet de les résoudre dans votre repo. Il est de bonne pratique de le faire régulièrement entre deux commits pour s'assurer que le repo est à jour.
@@ -158,7 +158,7 @@ Para mais informações sobre a sincronização de garfos [leia este artigo do G
 
 - Who can contribute?
 
-  - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
+  - Anyone with a github account and who is signed up for [hacktoberfest] (https://hacktoberfest.digitalocean.com/) :).
 
 - Are you getting paid for this?
 
@@ -168,7 +168,7 @@ Para mais informações sobre a sincronização de garfos [leia este artigo do G
   - We are two programmers from Sweden [Richard](https://github.com/richie-south)
   and [Benny](https://github.com/BennyCarlsson). We are doing this because we love Open
   Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-- Why are you not using digitalocean?
+- Why are you not using DigitalOcean?
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Are you not the guys from that failed [CodeCardCodingCards](https://www.kickstarter.com/projects/lingonsaft/codecardcodingcards) kickstarter?
   - Yes...
@@ -183,4 +183,4 @@ Para mais informações sobre a sincronização de garfos [leia este artigo do G
 - What is the event for?
   - For the open source community engagement.
 
-### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible ❤️*
+### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible ❤️*
